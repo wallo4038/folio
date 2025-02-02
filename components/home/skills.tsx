@@ -95,11 +95,6 @@ const SkillsSection = () => {
             height={76}
             className="skill"
           />
-          <a href="https://www.testdome.com/certificates/5b502096c7ed4f1ab3414aefc6b1b437" class="testdome-certificate-stamp silver">
-            <span class="testdome-certificate-name">Muhammad Waleed</span>
-            <span class="testdome-certificate-test-name">C# and .NET</span>
-            <span class="testdome-certificate-card-logo">TestDome<br>Certificate</span>
-        </a>
         ))}
       </div>
     </>
