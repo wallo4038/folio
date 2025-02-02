@@ -45,6 +45,7 @@ export const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/waleedaaaayyyy636/",
   facebook: "https://www.facebook.com/profile.php?id=100027265320233",
   twitter: "https://twitter.com/test6774",
+   testdom: "www.testdome.com/certificates/5b502096c7ed4f1ab3414aefc6b1b437",
 };
 
 export interface IProject {
